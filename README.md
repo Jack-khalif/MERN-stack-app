@@ -20,7 +20,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 
 | Home Page | Product List | Database  |
 |-----------|--------------|-------------|
-| ![Home](homepage.png) | ![List](addproduct.png) | ![Add](database.png) |
+| ![Home](homepage.png) | ![List](products.png) | ![Add](database.png) |
 
 ---
 
