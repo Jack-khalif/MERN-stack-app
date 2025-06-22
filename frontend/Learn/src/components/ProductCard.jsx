@@ -20,7 +20,7 @@ import {
 	useToast,
 	VStack,
 } from "@chakra-ui/react";
-import { useProductStore } from "../store/product";
+import { useProductStore } from "../store/product.js";
 import { useState } from "react";
 
 const ProductCard = ({ product }) => {
