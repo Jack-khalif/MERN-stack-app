@@ -44,6 +44,4 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 - npm
 - MongoDB Atlas account (or local MongoDB)
 
-### Installation
 
-1. **Clone the repository:**
