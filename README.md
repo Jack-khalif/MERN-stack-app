@@ -8,7 +8,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 - **Product CRUD:** Create, read, update, and delete products with ease.
 - **Modern UI:** Built with React and Vite for a fast, interactive experience.
 - **RESTful API:** Express.js backend with MongoDB for persistent data storage.
-- **Responsive Design:** Works on desktop and mobile devices.
+- **Responsive Design:** Works on desktop for now.
 - **CORS & Environment Config:** Secure API access and environment variable management.
 
 ---
