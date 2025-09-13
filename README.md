@@ -32,7 +32,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 - **Frontend:** React, Vite, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Atlas)
-- **Other:** Mongoose, CORS, dotenv
+
 
 ---
 
