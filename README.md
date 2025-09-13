@@ -1,7 +1,6 @@
 # MERN Stack Product Management App
 
 A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) for managing products. The app supports product creation, updating, deletion, and viewing with a modern responsive UI.
-
 ---
 
 ## Features
