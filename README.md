@@ -15,8 +15,6 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 
 ## Screenshots
 
-> Add your screenshots here after uploading them to the repository (e.g., `/screenshots/` folder):
-
 |** Home Page |** 
 |-----------|------
 | ![Home](homepage.png) |
