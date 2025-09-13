@@ -24,15 +24,12 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 |-----------|------
 |** Database |** 
 ![Add](database.png) |
-
 ---
-
 ## Tech Stack
 
 - **Frontend:** React, Vite, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Atlas)
-
 
 ---
 
